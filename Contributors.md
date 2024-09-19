@@ -1,4 +1,5 @@
 # Contributors
+- [Norm] ** Just getting started ... 09/19/2024 **
 - [Rick] ** Good good study **
 - [Jezex] (https://github.com/Jezex) **9/18/2024**
 - [Miquel] ** Testing **
